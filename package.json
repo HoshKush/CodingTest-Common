@@ -1,10 +1,11 @@
 {
   "name": "blended-common-coding-test",
   "version": "0.1.0",
-  "dependencies": {
-    "jest": "^24.9.0"
-  },
+  "dependencies": {},
   "scripts": {
     "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
   }
 }
